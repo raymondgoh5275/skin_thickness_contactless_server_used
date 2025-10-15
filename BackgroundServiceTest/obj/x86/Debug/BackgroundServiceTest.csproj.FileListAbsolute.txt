@@ -1,0 +1,94 @@
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.exe.config
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.exe
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.pdb
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\Skin Thickness Service.exe
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BLL.dll
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\DAL.dll
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\ATS-Global.dll
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\Skin Thickness Service.pdb
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\Skin Thickness Service.exe.config
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BLL.pdb
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BLL.dll.config
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\DAL.pdb
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\DAL.dll.config
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\ATS-Global.pdb
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.csprojAssemblyReference.cache
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.csproj.CopyComplete
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.exe
+C:\Users\gingram\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.pdb
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.exe.config
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.exe
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.pdb
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\Skin Thickness Service.exe
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BLL.dll
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\DAL.dll
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\ATS-Global.dll
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\Skin Thickness Service.pdb
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\Skin Thickness Service.exe.config
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BLL.pdb
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BLL.dll.config
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\DAL.pdb
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\DAL.dll.config
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\ATS-Global.pdb
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.csprojAssemblyReference.cache
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.csproj.CopyComplete
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.exe
+C:\Users\gingram\source\source\Workspaces\Internal Projects\Achord2012\Skin Thickness Evaluation\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.pdb
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.exe.config
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.exe
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.pdb
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\Skin Thickness Service.exe
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BLL.dll
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\DAL.dll
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\ATS-Global.dll
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\Skin Thickness Service.pdb
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\Skin Thickness Service.exe.config
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BLL.pdb
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\BLL.dll.config
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\DAL.pdb
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\bin\Debug\DAL.dll.config
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.csprojAssemblyReference.cache
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.csproj.CopyComplete
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.exe
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.pdb
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.exe.config
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.exe
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.pdb
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\bin\Debug\Skin Thickness Service.exe
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\bin\Debug\BLL.dll
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\bin\Debug\DAL.dll
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\bin\Debug\ATS-Global.dll
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\bin\Debug\Skin Thickness Service.pdb
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\bin\Debug\Skin Thickness Service.exe.config
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\bin\Debug\BLL.pdb
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\bin\Debug\BLL.dll.config
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\bin\Debug\DAL.pdb
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\bin\Debug\DAL.dll.config
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.csproj.CopyComplete
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.exe
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.pdb
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.csproj.AssemblyReference.cache
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.exe.config
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.exe
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\BackgroundServiceTest.pdb
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\Skin Thickness Service.exe
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\BLL.dll
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\DAL.dll
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\ATS-Global.dll
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\Skin Thickness Service.pdb
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\Skin Thickness Service.exe.config
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\BLL.pdb
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\BLL.dll.config
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\DAL.pdb
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\DAL.dll.config
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.csproj.CopyComplete
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.exe
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.pdb
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\Dapper.dll
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\Dapper.xml
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\obj\x86\Debug\BackgroundServiceTest.csproj.AssemblyReference.cache
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\Contacless.dll
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BackgroundServiceTest\bin\Debug\Contacless.pdb

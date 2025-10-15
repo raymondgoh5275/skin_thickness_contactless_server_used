@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsBackgroundService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MESfilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\ATS_OEM\Skin Thickness Contactless\XML_Files</Value>
+    </Setting>
+    <Setting Name="ErrorsPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\ATS_OEM\Skin Thickness Contactless\Errors</Value>
+    </Setting>
+    <Setting Name="LogsPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\ATS_OEM\Skin Thickness Contactless\Logs</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

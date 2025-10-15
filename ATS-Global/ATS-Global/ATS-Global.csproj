@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B5AD9495-46F2-426F-954A-6464159F51E2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ATS_Global</RootNamespace>
+    <AssemblyName>ATS-Global</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CSV\CSV.cs" />
+    <Compile Include="Forms\Components\FileSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Components\FileSelector.Designer.cs">
+      <DependentUpon>FileSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Components\PathSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Components\PathSelector.Designer.cs">
+      <DependentUpon>PathSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Components\ProgressBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Components\ProgressBar.Designer.cs">
+      <DependentUpon>ProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INI\Config.cs" />
+    <Compile Include="INI\Setting.cs" />
+    <Compile Include="INI\SettingsGroup.cs" />
+    <Compile Include="IO\DirectoryHelper.cs" />
+    <Compile Include="IO\FileHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XML\XmlHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="MES\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\Components\FileSelector.resx">
+      <DependentUpon>FileSelector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Components\PathSelector.resx">
+      <DependentUpon>PathSelector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Components\ProgressBar.resx">
+      <DependentUpon>ProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

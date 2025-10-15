@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Skin_Thickness_Evaluation.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <script src="Scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script src="Scripts/jquery-ui-1.8.17.custom.min.js" type="text/javascript"></script>
+    <script src="Scripts/json2.js" type="text/javascript"></script>
+    <link href="~/Styles/reset.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/jquery-ui-1.8.9.custom.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div id="header" class="ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+        <h1>
+            Skin Thickness Evaluation<% if (this.Page.Title != "") { Response.Write(string.Format(" - {0}", this.Page.Title)); } %>
+        </h1>
+        <div class="clear">
+        </div>
+    </div>
+    <div id="page" class="ui-widget ui-widget-content ui-corner-all">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        <div class="clear">
+        </div>
+    </div>
+    <div id="footer">
+        <asp:ContentPlaceHolder ID="FooterContent" runat="server" />
+        <div class="clear">
+        </div>
+    </div>
+    </form>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("a.button").button();
+
+            $("input.datepicker").datepicker({
+                showOn: "button",
+                buttonImage: "Images/calendar.png",
+                buttonImageOnly: true
+            });
+            $("input.datepicker").datepicker("option", "dateFormat", "d MM, y");
+            $("input.datepicker").datepicker("option", "showAnim", "slideDown");
+        });
+    </script>
+</body>
+</html>

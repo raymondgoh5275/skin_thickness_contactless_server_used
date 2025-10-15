@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="SiteSub.master.cs" Inherits="Skin_Thickness_Evaluation.SiteSub" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#accordion").accordion({
+                fillSpace: true
+            });
+        });
+    </script>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <div class="leftNav">
+        <div id="accordion" style="margin:0px;padding:0px;">
+            <asp:ContentPlaceHolder ID="LeftBar" runat="server"></asp:ContentPlaceHolder>
+        </div>
+    </div>
+    <div id="divMainBody" style=" margin: 5px 0 0 285px; padding:0px; height:99%">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+    </div>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="FooterContent" runat="server">
+    <asp:ContentPlaceHolder ID="FooterContent" runat="server"></asp:ContentPlaceHolder>
+    <a href="Default.aspx" class="button">Back</a>
+</asp:Content>

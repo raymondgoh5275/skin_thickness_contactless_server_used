@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BLL.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OEMInputPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\ATS_OEM\Skin Thickness Contactless\Dat_Files_From_Oem</Value>
+    </Setting>
+    <Setting Name="CSVPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\ATS_OEM\Skin Thickness Contactless\Csv_Storage</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

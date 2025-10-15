@@ -1,0 +1,27 @@
+C:\Users\wlee\Desktop\Skin Thickness Evaluation\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v3\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\BLL.dll.config
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\BLL.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\BLL.pdb
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\ATS-Global.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\Contacless.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\DAL.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\System.ValueTuple.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\Dapper.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\ATS-Global.pdb
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\DAL.pdb
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\DAL.dll.config
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\Contacless.pdb
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\System.ValueTuple.xml
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Release\Dapper.xml
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\obj\Release\BLL.csproj.CopyComplete
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\obj\Release\BLL.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\obj\Release\BLL.pdb
