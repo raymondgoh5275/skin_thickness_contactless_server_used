@@ -59,7 +59,6 @@ C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\AT
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\ATS-Global\ATS-Global\obj\Debug\ATS_Global.Forms.Components.FileSelector.resources
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\ATS-Global\ATS-Global\obj\Debug\ATS_Global.Forms.Components.PathSelector.resources
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\ATS-Global\ATS-Global\obj\Debug\ATS_Global.Forms.Components.ProgressBar.resources
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\ATS-Global\ATS-Global\obj\Debug\ATS-Global.csproj.GenerateResource.cache
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\ATS-Global\ATS-Global\obj\Debug\ATS-Global.csproj.CoreCompileInputs.cache
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\ATS-Global\ATS-Global\obj\Debug\ATS-Global.csproj.GenerateResource.Cache
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\ATS-Global\ATS-Global\obj\Debug\ATS-Global.dll
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\ATS-Global\ATS-Global\obj\Debug\ATS-Global.pdb

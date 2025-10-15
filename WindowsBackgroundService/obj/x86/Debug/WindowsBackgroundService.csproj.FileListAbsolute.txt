@@ -110,30 +110,26 @@ C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\WindowsBackgroundSe
 C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\Skin Thickness Service.pdb
 C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Contacless.dll
 C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Contacless.pdb
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\WindowsBackgroundService.csprojResolveAssemblyReference.cache
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\WindowsBackgroundService.ProjectInstaller.resources
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\WindowsBackgroundService.SkinThicknessEvaluationService.resources
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\WindowsBackgroundService.csproj.GenerateResource.Cache
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Skin Thickness Service.exe.config
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Skin Thickness Service.exe
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Skin Thickness Service.pdb
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\BLL.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\CsvHelper.dll
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\DAL.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\System.ValueTuple.dll
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Contacless.dll
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\ATS-Global.dll
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Dapper.dll
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\BLL.pdb
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\BLL.dll.config
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\DAL.pdb
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\DAL.dll.config
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Contacless.pdb
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Dapper.xml
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\WindowsBackgroundService.csproj.AssemblyReference.cache
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\WindowsBackgroundService.ProjectInstaller.resources
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\WindowsBackgroundService.SkinThicknessEvaluationService.resources
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\WindowsBackgroundService.csproj.GenerateResource.cache
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\WindowsBackgroundService.csproj.CoreCompileInputs.cache
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\WindowsBackgroundService.csproj.CopyComplete
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\Skin Thickness Service.exe
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\Skin Thickness Service.pdb
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\CsvHelper.dll
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\System.ValueTuple.dll
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\CsvHelper.xml
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\System.ValueTuple.xml
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Contacless.pdb
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\ATS-Global.pdb
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Dapper.xml
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\Skin Thickness Service.exe
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\WindowsBackgroundService\obj\x86\Debug\Skin Thickness Service.pdb

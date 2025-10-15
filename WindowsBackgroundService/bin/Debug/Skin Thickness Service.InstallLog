@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\KJGoh\Downloads\Skin Thickness Evaluation - All\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Skin Thickness Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\KJGoh\Downloads\Skin Thickness Evaluation - All\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Skin Thickness Service.InstallLog
+   assemblypath = C:\Users\KJGoh\Downloads\Skin Thickness Evaluation - All\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Skin Thickness Service.exe
+Installing service Skin Thickness Service...
+Service Skin Thickness Service has been successfully installed.
+Creating EventLog source Skin Thickness Service in log Application...
+Committing assembly 'C:\Users\KJGoh\Downloads\Skin Thickness Evaluation - All\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Skin Thickness Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\KJGoh\Downloads\Skin Thickness Evaluation - All\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Skin Thickness Service.InstallLog
+   assemblypath = C:\Users\KJGoh\Downloads\Skin Thickness Evaluation - All\Skin Thickness Evaluation v4\WindowsBackgroundService\bin\Debug\Skin Thickness Service.exe

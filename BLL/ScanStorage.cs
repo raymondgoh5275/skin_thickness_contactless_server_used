@@ -16,7 +16,14 @@ namespace BLL
 {
     public static class StringExt
     {
-        public static bool IsNumeric(this string text) => double.TryParse(text, out _);
+        //public static bool IsNumeric(this string text) => double.TryParse(text, out _);
+
+        public static bool IsNumeric(this string text)
+        {
+            double result;
+            return double.TryParse(text, out result);
+        }
+
     }
     public class ScanStorage : Scan
     {

@@ -40,6 +40,5 @@ C:\Users\gkalianan\source\repos\Skin Thickness Evaluation v4\DAL\obj\Debug\DAL.p
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\DAL\bin\Debug\DAL.dll.config
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\DAL\bin\Debug\DAL.dll
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\DAL\bin\Debug\DAL.pdb
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\DAL\obj\Debug\DAL.dll
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\DAL\obj\Debug\DAL.pdb

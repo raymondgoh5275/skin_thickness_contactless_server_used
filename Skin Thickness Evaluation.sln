@@ -1,9 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29215.179
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skin Thickness Evaluation", "Skin Thickness Evaluation\Skin Thickness Evaluation.csproj", "{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5B617B24-B975-4C0E-AB9D-5E05ADA12B5C} = {5B617B24-B975-4C0E-AB9D-5E05ADA12B5C}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsBackgroundService", "WindowsBackgroundService\WindowsBackgroundService.csproj", "{5B617B24-B975-4C0E-AB9D-5E05ADA12B5C}"
 EndProject

@@ -139,8 +139,11 @@ namespace Contacless
                     var side = rows[i][1].Trim() == "Inside form" ? BladeForm.Inside : BladeForm.Outside;
                     if (rowsrange.Count > 1)
                     {
-                        _ = decimal.TryParse(line, out var Y);
+                        decimal Y;
+                        decimal.TryParse(line, out Y); // Ignore the return value
                         var profilePoints = GetProfilePoints(profilename, side, Y);
+                        //_ = decimal.TryParse(line, out var Y);
+                        //var profilePoints = GetProfilePoints(profilename, side, Y);
                         var scanPoints = ParseLine2(rowsrange, profilePoints, side, Y);
                         var scanRow = new ScanRow()
                         {

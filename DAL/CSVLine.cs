@@ -53,21 +53,53 @@ namespace DAL
 
         //}
 
-        private float GetColumnValueAsFloat(string DataIn,  float defaultvalue = 0.0f,  NumberStyles style = NumberStyles.Number,  CultureInfo culture = null)
+        //private float GetColumnValueAsFloat(string DataIn,  float defaultvalue = 0.0f,  NumberStyles style = NumberStyles.Number,  CultureInfo culture = null)
+        //{
+        //    culture = culture?? CultureInfo.InvariantCulture;
+        //    return float.TryParse(DataIn, style, (IFormatProvider)culture, out float result) && !string.IsNullOrWhiteSpace(DataIn) ? result : defaultvalue;
+        //}
+        //private int GetColumnValueAsInt(string DataIn, int defaultvalue = 0, NumberStyles style = NumberStyles.Number, CultureInfo culture = null)
+        //{
+        //    culture = culture ?? CultureInfo.InvariantCulture;
+        //    return int.TryParse(DataIn, style, (IFormatProvider)culture, out int result) && !string.IsNullOrWhiteSpace(DataIn) ? result : defaultvalue;
+        //}
+        //private double GetColumnValueAsDouble(string DataIn, double defaultvalue = 0.0, NumberStyles style = NumberStyles.Number, CultureInfo culture = null)
+        //{
+        //    culture = culture ?? CultureInfo.InvariantCulture;
+        //    return double.TryParse(DataIn, style, (IFormatProvider)culture, out double result) && !string.IsNullOrWhiteSpace(DataIn) ? result : defaultvalue;
+        //}
+
+
+        private float GetColumnValueAsFloat(string DataIn, float defaultvalue = 0.0f, NumberStyles style = NumberStyles.Number, CultureInfo culture = null)
         {
-            culture = culture?? CultureInfo.InvariantCulture;
-            return float.TryParse(DataIn, style, (IFormatProvider)culture, out float result) && !string.IsNullOrWhiteSpace(DataIn) ? result : defaultvalue;
+            culture = culture ?? CultureInfo.InvariantCulture;
+            float result;
+            return float.TryParse(DataIn, style, (IFormatProvider)culture, out result) && !string.IsNullOrWhiteSpace(DataIn)
+                ? result
+                : defaultvalue;
         }
+
         private int GetColumnValueAsInt(string DataIn, int defaultvalue = 0, NumberStyles style = NumberStyles.Number, CultureInfo culture = null)
         {
             culture = culture ?? CultureInfo.InvariantCulture;
-            return int.TryParse(DataIn, style, (IFormatProvider)culture, out int result) && !string.IsNullOrWhiteSpace(DataIn) ? result : defaultvalue;
+            int result;
+            return int.TryParse(DataIn, style, (IFormatProvider)culture, out result) && !string.IsNullOrWhiteSpace(DataIn)
+                ? result
+                : defaultvalue;
         }
+
         private double GetColumnValueAsDouble(string DataIn, double defaultvalue = 0.0, NumberStyles style = NumberStyles.Number, CultureInfo culture = null)
         {
             culture = culture ?? CultureInfo.InvariantCulture;
-            return double.TryParse(DataIn, style, (IFormatProvider)culture, out double result) && !string.IsNullOrWhiteSpace(DataIn) ? result : defaultvalue;
+            double result;
+            return double.TryParse(DataIn, style, (IFormatProvider)culture, out result) && !string.IsNullOrWhiteSpace(DataIn)
+                ? result
+                : defaultvalue;
         }
+
+
+
+
         private void ScanLine()
         {
             var cps = new float[2]; // GetScanRows().ToArray();
@@ -190,7 +222,13 @@ namespace DAL
         private BladeForm Side => side == "Inside form" ? BladeForm.Inside : BladeForm.Outside;
         private int Y => GetColumnValueAsInt(name);
         public int Count => rows.Count;
-        public ScanRow ScanRow { get => scanRow; set => scanRow = value; }
+        //public ScanRow ScanRow { get => scanRow; set => scanRow = value; }
+        public ScanRow ScanRow
+        {
+            get { return scanRow; }
+            set { scanRow = value; }
+        }
+
         //public ProfileRow ProfileRow { get => profileRow; set => profileRow = value; }
     }
 }

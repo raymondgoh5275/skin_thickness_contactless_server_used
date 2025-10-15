@@ -24,11 +24,9 @@ C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\Te
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\TestContactless\bin\Debug\CsvHelper.xml
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\TestContactless\bin\Debug\System.ValueTuple.xml
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\TestContactless\bin\Debug\Dapper.xml
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\TestContactless\obj\Debug\TestContactless.csproj.AssemblyReference.cache
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\TestContactless\obj\Debug\TestContactless.csprojResolveAssemblyReference.cache
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\TestContactless\obj\Debug\TestContactless.FormTest.resources
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\TestContactless\obj\Debug\TestContactless.Properties.Resources.resources
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\TestContactless\obj\Debug\TestContactless.csproj.GenerateResource.cache
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\TestContactless\obj\Debug\TestContactless.csproj.CoreCompileInputs.cache
-C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\TestContactless\obj\Debug\TestContactless.csproj.CopyComplete
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\TestContactless\obj\Debug\TestContactless.csproj.GenerateResource.Cache
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\TestContactless\obj\Debug\TestContactless.exe
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\TestContactless\obj\Debug\TestContactless.pdb
