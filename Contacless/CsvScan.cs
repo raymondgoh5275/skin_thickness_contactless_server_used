@@ -273,6 +273,7 @@ namespace Contacless
                 }
             }
         }
+
         private Pdata[] GetProfilePoints(string profilename, BladeForm side, decimal line)
         {
             using (var con = new SqlConnection(constring))

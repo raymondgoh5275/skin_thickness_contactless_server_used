@@ -1,54 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\",
+  "WorkspaceRootPath": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|c:\\users\\gkalianan\\source\\repos\\skin thickness evaluation v4\\skin thickness evaluation\\uc004.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|c:\\users\\kjgoh\\onedrive - ats global b.v\\desktop\\skin thickness evaluation v4\\skin thickness evaluation\\uc004.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|solutionrelative:skin thickness evaluation\\uc004.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|c:\\users\\gkalianan\\source\\repos\\skin thickness evaluation v4\\skin thickness evaluation\\uc007.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\skin thickness evaluation\\uc007.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|solutionrelative:skin thickness evaluation\\uc007.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|c:\\users\\gkalianan\\source\\repos\\skin thickness evaluation v4\\skin thickness evaluation\\uc006.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\skin thickness evaluation\\uc006.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|solutionrelative:skin thickness evaluation\\uc006.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64E5A49E-158B-4748-BD2F-C62FB5C01702}|DAL\\DAL.csproj|c:\\users\\gkalianan\\source\\repos\\skin thickness evaluation v4\\dal\\profilepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64E5A49E-158B-4748-BD2F-C62FB5C01702}|DAL\\DAL.csproj|solutionrelative:dal\\profilepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E5A49E-158B-4748-BD2F-C62FB5C01702}|DAL\\DAL.csproj|c:\\users\\gkalianan\\source\\repos\\skin thickness evaluation v4\\dal\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64E5A49E-158B-4748-BD2F-C62FB5C01702}|DAL\\DAL.csproj|solutionrelative:dal\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|c:\\users\\gkalianan\\source\\repos\\skin thickness evaluation v4\\skin thickness evaluation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\skin thickness evaluation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|solutionrelative:skin thickness evaluation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|c:\\users\\gkalianan\\source\\repos\\skin thickness evaluation v4\\skin thickness evaluation\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\skin thickness evaluation\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{4FCF1EF5-41AF-41AD-B9AA-5B323CD40269}|Skin Thickness Evaluation\\Skin Thickness Evaluation.csproj|solutionrelative:skin thickness evaluation\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1235945F-5281-4D00-8777-364779293E52}|Contacless\\Contacless.csproj|c:\\users\\gkalianan\\source\\repos\\skin thickness evaluation v4\\contacless\\csvscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1235945F-5281-4D00-8777-364779293E52}|Contacless\\Contacless.csproj|C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\contacless\\csvscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1235945F-5281-4D00-8777-364779293E52}|Contacless\\Contacless.csproj|solutionrelative:contacless\\csvscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5AD9495-46F2-426F-954A-6464159F51E2}|ATS-Global\\ATS-Global\\ATS-Global.csproj|C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\ats-global\\ats-global\\csv\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5AD9495-46F2-426F-954A-6464159F51E2}|ATS-Global\\ATS-Global\\ATS-Global.csproj|solutionrelative:ats-global\\ats-global\\csv\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E5A49E-158B-4748-BD2F-C62FB5C01702}|DAL\\DAL.csproj|C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\dal\\csvline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64E5A49E-158B-4748-BD2F-C62FB5C01702}|DAL\\DAL.csproj|solutionrelative:dal\\csvline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E5A49E-158B-4748-BD2F-C62FB5C01702}|DAL\\DAL.csproj|C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\dal\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64E5A49E-158B-4748-BD2F-C62FB5C01702}|DAL\\DAL.csproj|solutionrelative:dal\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8733A597-4A42-4FB4-B1C3-8B4295378F86}|BLL\\BLL.csproj|C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\bll\\scanstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8733A597-4A42-4FB4-B1C3-8B4295378F86}|BLL\\BLL.csproj|C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\bll\\scanstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8733A597-4A42-4FB4-B1C3-8B4295378F86}|BLL\\BLL.csproj|solutionrelative:bll\\scanstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\DAL\\ProfilePoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\ProfilePoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\DAL\\CSV.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\CSV.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\DAL\\DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\ATS-Global\\ATS-Global\\CSV\\CSV.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ATS-Global\\ATS-Global\\CSV\\CSV.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\DAL\\CSVLine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\CSVLine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UC004.aspx",
-              "DocumentMoniker": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\UC004.aspx",
+              "DocumentMoniker": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\UC004.aspx",
               "RelativeDocumentMoniker": "Skin Thickness Evaluation\\UC004.aspx",
-              "ToolTip": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\UC004.aspx",
+              "ToolTip": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\UC004.aspx",
               "RelativeToolTip": "Skin Thickness Evaluation\\UC004.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -77,100 +77,93 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UC007.aspx",
-              "DocumentMoniker": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\UC007.aspx",
+              "DocumentMoniker": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\UC007.aspx",
               "RelativeDocumentMoniker": "Skin Thickness Evaluation\\UC007.aspx",
-              "ToolTip": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\UC007.aspx",
+              "ToolTip": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\UC007.aspx",
               "RelativeToolTip": "Skin Thickness Evaluation\\UC007.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-31T02:56:06.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T02:56:06.27Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UC006.aspx",
-              "DocumentMoniker": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\UC006.aspx",
+              "DocumentMoniker": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\UC006.aspx",
               "RelativeDocumentMoniker": "Skin Thickness Evaluation\\UC006.aspx",
               "ToolTip": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\UC006.aspx*",
-              "RelativeToolTip": "Skin Thickness Evaluation\\UC006.aspx*",
+              "RelativeToolTip": "..\\..\\..\\..\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\UC006.aspx*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-31T02:55:30.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProfilePoint.cs",
-              "DocumentMoniker": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\DAL\\ProfilePoint.cs",
-              "RelativeDocumentMoniker": "DAL\\ProfilePoint.cs",
-              "ToolTip": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\DAL\\ProfilePoint.cs",
-              "RelativeToolTip": "DAL\\ProfilePoint.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAA0wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T02:54:40.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CSV.cs",
-              "DocumentMoniker": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\DAL\\CSV.cs",
-              "RelativeDocumentMoniker": "DAL\\CSV.cs",
-              "ToolTip": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\DAL\\CSV.cs",
-              "RelativeToolTip": "DAL\\CSV.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T02:54:35.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\Web.config",
-              "RelativeDocumentMoniker": "Skin Thickness Evaluation\\Web.config",
-              "ToolTip": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\Web.config",
-              "RelativeToolTip": "Skin Thickness Evaluation\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-31T02:45:53.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\packages.config",
-              "RelativeDocumentMoniker": "Skin Thickness Evaluation\\packages.config",
-              "ToolTip": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\packages.config",
-              "RelativeToolTip": "Skin Thickness Evaluation\\packages.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-31T02:45:48.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T02:55:30.932Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CsvScan.cs",
-              "DocumentMoniker": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\Contacless\\CsvScan.cs",
-              "RelativeDocumentMoniker": "Contacless\\CsvScan.cs",
-              "ToolTip": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\Contacless\\CsvScan.cs",
-              "RelativeToolTip": "Contacless\\CsvScan.cs",
-              "ViewState": "AQIAAFUBAAAAAAAAAAAuwGcBAAANAAAA",
+              "Title": "ProfilePoint.cs",
+              "DocumentMoniker": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\DAL\\ProfilePoint.cs",
+              "RelativeDocumentMoniker": "DAL\\ProfilePoint.cs",
+              "ToolTip": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\DAL\\ProfilePoint.cs",
+              "RelativeToolTip": "DAL\\ProfilePoint.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA0wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T09:43:10.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T02:54:40.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "CSV.cs",
+              "DocumentMoniker": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\DAL\\CSV.cs",
+              "RelativeDocumentMoniker": "DAL\\CSV.cs",
+              "ToolTip": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\DAL\\CSV.cs",
+              "RelativeToolTip": "DAL\\CSV.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T02:54:35.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\Web.config",
+              "RelativeDocumentMoniker": "Skin Thickness Evaluation\\Web.config",
+              "ToolTip": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\Web.config",
+              "RelativeToolTip": "Skin Thickness Evaluation\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-31T02:45:53.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\packages.config",
+              "RelativeDocumentMoniker": "Skin Thickness Evaluation\\packages.config",
+              "ToolTip": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\Skin Thickness Evaluation\\packages.config",
+              "RelativeToolTip": "Skin Thickness Evaluation\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-31T02:45:48.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CsvScan.cs",
+              "DocumentMoniker": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\Contacless\\CsvScan.cs",
+              "RelativeDocumentMoniker": "Contacless\\CsvScan.cs",
+              "ToolTip": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\Contacless\\CsvScan.cs",
+              "RelativeToolTip": "Contacless\\CsvScan.cs",
+              "ViewState": "AQIAAFUBAAAAAAAAAAAuwGcBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:43:10.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ScanStorage.cs",
-              "DocumentMoniker": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\BLL\\ScanStorage.cs",
+              "DocumentMoniker": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\BLL\\ScanStorage.cs",
               "RelativeDocumentMoniker": "BLL\\ScanStorage.cs",
-              "ToolTip": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\BLL\\ScanStorage.cs",
+              "ToolTip": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\BLL\\ScanStorage.cs",
               "RelativeToolTip": "BLL\\ScanStorage.cs",
               "ViewState": "AQIAAEUAAAAAAAAAAAAmwHIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,11 +171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "DAL.cs",
-              "DocumentMoniker": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\DAL\\DAL.cs",
+              "DocumentMoniker": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\DAL\\DAL.cs",
               "RelativeDocumentMoniker": "DAL\\DAL.cs",
-              "ToolTip": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\DAL\\DAL.cs",
+              "ToolTip": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\DAL\\DAL.cs",
               "RelativeToolTip": "DAL\\DAL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -190,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CSV.cs",
-              "DocumentMoniker": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\ATS-Global\\ATS-Global\\CSV\\CSV.cs",
+              "DocumentMoniker": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\ATS-Global\\ATS-Global\\CSV\\CSV.cs",
               "RelativeDocumentMoniker": "ATS-Global\\ATS-Global\\CSV\\CSV.cs",
-              "ToolTip": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\ATS-Global\\ATS-Global\\CSV\\CSV.cs",
+              "ToolTip": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\ATS-Global\\ATS-Global\\CSV\\CSV.cs",
               "RelativeToolTip": "ATS-Global\\ATS-Global\\CSV\\CSV.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,11 +195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CSVLine.cs",
-              "DocumentMoniker": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\DAL\\CSVLine.cs",
+              "DocumentMoniker": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\DAL\\CSVLine.cs",
               "RelativeDocumentMoniker": "DAL\\CSVLine.cs",
-              "ToolTip": "C:\\Users\\gkalianan\\source\\repos\\Skin Thickness Evaluation v4\\DAL\\CSVLine.cs",
+              "ToolTip": "C:\\Users\\KJGoh\\OneDrive - ATS Global B.V\\Desktop\\Skin Thickness Evaluation v4\\DAL\\CSVLine.cs",
               "RelativeToolTip": "DAL\\CSVLine.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
