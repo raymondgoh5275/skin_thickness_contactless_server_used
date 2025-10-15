@@ -299,6 +299,7 @@ namespace Contacless
             decimal val2 = 0;
 
 
+
             //var ix = -1;
             //var iy = -1;
 
