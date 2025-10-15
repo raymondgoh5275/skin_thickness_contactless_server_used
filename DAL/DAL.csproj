@@ -60,6 +60,7 @@
     <Compile Include="Scan.cs" />
     <Compile Include="ScanPoint.cs" />
     <Compile Include="ScanRow.cs" />
+    <Compile Include="Settings.cs" />
     <Compile Include="SPC_Data.cs" />
   </ItemGroup>
   <ItemGroup>
