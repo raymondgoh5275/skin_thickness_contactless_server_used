@@ -5,13 +5,9 @@
     <Setting Name="DB_Connection" Type="(Connection string)" Scope="Application">
       <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
 &lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  <!--&lt;ConnectionString&gt;Data Source=ATSUKNB054\SQLEXPRESS; Initial Catalog=skin_thickness;Integrated Security=True;Asynchronous Processing=True;&lt;/ConnectionString&gt;-->
-		  <!--&lt;ConnectionString&gt;Data Source=ATSSGNB069\SQLDEVELOPER; Initial Catalog=skin_thickness_contactless;User ID=sa; Password=12345; Asynchronous Processing=True;&lt;/ConnectionString&gt;-->
-		  &lt;ConnectionString&gt;Data Source=SG001PR-MDB005S; Initial Catalog=skin_thickness_contactless;User ID=skin_user; Password=SkN_ThK_2012; Asynchronous Processing=True;&lt;/ConnectionString&gt;
-
-		 
-		  &lt;/SerializableConnectionString&gt;</DesignTimeValue>
-      <Value Profile="(Default)">Data Source=ATSUKNB054\SQLEXPRESS; Initial Catalog=skin_thickness;Integrated Security=True;Asynchronous Processing=True;</Value>
+  &lt;ConnectionString&gt;Data Source=ATSSGNB069\SQLDEVELOPER;Initial Catalog=skin_thickness_contactless; User ID=sa; Password=12345; Asynchronous Processing=True;&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=ATSSGNB069\SQLDEVELOPER;Initial Catalog=skin_thickness_contactless; User ID=sa; Password=12345; Asynchronous Processing=True;</Value>
     </Setting>
   </Settings>
 </SettingsFile>
