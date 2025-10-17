@@ -26,8 +26,8 @@ namespace DAL.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=ATSSGNB069\\SQLDEVELOPER;Initial Catalog=skin_thickness_contactless; U" +
-            "ser ID=sa; Password=12345; Asynchronous Processing=True;")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=SG001PR-MDB005S;Initial Catalog=skin_thickness; User ID=skin_user; Pa" +
+            "ssword=SkN_ThK_2012; Asynchronous Processing=True;")]
         public string DB_Connection {
             get {
                 return ((string)(this["DB_Connection"]));
