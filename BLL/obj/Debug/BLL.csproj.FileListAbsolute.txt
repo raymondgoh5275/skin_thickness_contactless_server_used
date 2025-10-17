@@ -92,3 +92,22 @@ C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BL
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\bin\Debug\Dapper.xml
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\obj\Debug\BLL.dll
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\BLL\obj\Debug\BLL.pdb
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\BLL.dll.config
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\BLL.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\BLL.pdb
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\ATS-Global.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\Contacless.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\DAL.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\System.ValueTuple.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\Dapper.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\ATS-Global.pdb
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\Contacless.pdb
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\DAL.pdb
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\System.ValueTuple.xml
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\bin\Debug\Dapper.xml
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\obj\Debug\BLL.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\BLL\obj\Debug\BLL.pdb

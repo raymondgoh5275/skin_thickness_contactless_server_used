@@ -186,7 +186,7 @@ namespace Contacless
                 con.Open();
                 using (var trans = con.BeginTransaction())
                 {
-                    var qry = @"INSERT INTO [skin_thickness_contactless].[dbo].[scan]
+                    var qry = @"INSERT INTO [skin_thickness].[dbo].[scan]
                                ([filepath]
                                ,[SerialNo]
                                ,[Batch]
@@ -226,7 +226,7 @@ namespace Contacless
                     scanrows.AddRange(scan.InsideForm);
                     foreach (var row in scanrows)
                     {
-                        qry = @"INSERT INTO [skin_thickness_contactless].[dbo].[scan_row]
+                        qry = @"INSERT INTO [skin_thickness].[dbo].[scan_row]
 		                    ([scan_id]
 		                    ,[form]
 		                    ,[y]
@@ -247,7 +247,7 @@ namespace Contacless
                         row.id = con.QuerySingle<int>(qry, paramRow, transaction:trans);
                         foreach (var point in row.Points)
                         {
-                            qry = @"INSERT INTO [skin_thickness_contactless].[dbo].[scan_point]
+                            qry = @"INSERT INTO [skin_thickness].[dbo].[scan_point]
                                     ([scan_row_id]
                                     ,[x]
                                     ,[y]
@@ -543,7 +543,7 @@ namespace Contacless
                     rows.AddRange(profile.OutsideForm);
                     foreach (var row in rows)
                     {
-                        qry = @"INSERT INTO [skin_thickness_contactless].[dbo].[profile_row]
+                        qry = @"INSERT INTO [skin_thickness].[dbo].[profile_row]
                                ([profile_id]
                                ,[form]
                                ,[y]
@@ -580,7 +580,7 @@ namespace Contacless
                         //insert points
                         foreach (var point in row.Points)
                         {
-                            qry = @"INSERT INTO [skin_thickness_contactless].[dbo].[profile_point]
+                            qry = @"INSERT INTO [skin_thickness].[dbo].[profile_point]
 		                            ([profile_row_id]
                                     ,[x]
                                     ,[y]

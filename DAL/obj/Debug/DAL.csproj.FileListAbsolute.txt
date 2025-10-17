@@ -42,3 +42,8 @@ C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\DA
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\DAL\bin\Debug\DAL.pdb
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\DAL\obj\Debug\DAL.dll
 C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4\DAL\obj\Debug\DAL.pdb
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\DAL\bin\Debug\DAL.dll.config
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\DAL\bin\Debug\DAL.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\DAL\bin\Debug\DAL.pdb
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\DAL\obj\Debug\DAL.dll
+C:\Users\KJGoh\OneDrive - ATS Global B.V\Desktop\Skin Thickness Evaluation v4 - Contactless _Ready to used in server\DAL\obj\Debug\DAL.pdb
